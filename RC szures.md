@@ -9,3 +9,5 @@
 |3200|0,71|
 |6400|0,45|
 |12800|0,24|
+
+<img width="747" height="468" alt="image" src="https://github.com/user-attachments/assets/e4407be4-6f57-4181-b94a-1c36568eeda6" />
