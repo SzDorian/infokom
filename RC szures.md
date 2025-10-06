@@ -12,6 +12,6 @@
 |12800|0,24|
 ---
 <img width="747" height="468" alt="image" src="https://github.com/user-attachments/assets/e4407be4-6f57-4181-b94a-1c36568eeda6" />
----
+
 <img width="1090" height="464" alt="image" src="https://github.com/user-attachments/assets/54be34b6-ae36-4d6c-94b9-bbcc37aa75b0" />
----
+
