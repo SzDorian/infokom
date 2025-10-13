@@ -23,6 +23,12 @@ $C = 7 uF$
 |8000|0,927|
 |10000|0,951|
 
+*Határfrekvencia számolása:*
+
+$fh= {1 \over (2 * Pi * R * C)} $   
+$fh= {1 \over (2 * Pi * 10R * 2uF)} $   
+$fh= 7957.7472 Hz $
+
 ---
 
 ## Diagarm
