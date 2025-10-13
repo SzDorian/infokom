@@ -28,6 +28,8 @@ $C = 7 uF$
 
 ---
 
+## Falstad szimuláció
+
 <img width="760" height="422" alt="image" src="https://github.com/user-attachments/assets/2f1de2c4-d15c-4d04-8919-e6de3481b25c" />
 
 ---
