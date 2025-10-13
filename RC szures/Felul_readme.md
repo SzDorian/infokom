@@ -24,6 +24,8 @@ $C = 7 uF$
 
 ---
 
+## Diagarm
+
 <img width="754" height="463" alt="image" src="https://github.com/user-attachments/assets/3355917d-e06d-45fd-9e2a-b8bd6a1b928a" />
 
 ---
