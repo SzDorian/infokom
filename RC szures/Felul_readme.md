@@ -2,7 +2,7 @@
 ---
 Szül: 2006.07.07
 
-Aluláteresztő RC szűrő kapcsolás
+Felüláteresztő RC szűrő kapcsolás
 
 *Adatok:*
 
