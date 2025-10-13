@@ -23,6 +23,12 @@ $C = 7 uF$
 |6400|0,45|
 |12800|0,24|
 
+*Határfrekvencia számolása:*
+
+$fh= {1 \over (2 * Pi * R * C)} $   
+$fh= {1 \over (2 * Pi * 7R * 7uF)} $   
+$fh= 3248,06 Hz $
+
 ---
 ## Diagram
 <img width="747" height="468" alt="image" src="https://github.com/user-attachments/assets/e4407be4-6f57-4181-b94a-1c36568eeda6" />
