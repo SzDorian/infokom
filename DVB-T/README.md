@@ -36,11 +36,11 @@ A mérési pont a **V3 LABOR**, ahol a DVB-T adások vételének minőségét é
 |---------------------|-------|
 | Adó frekvencia       | 634 MHz |
 | Sávszélesség         | 8MHz |
-| Moduláció típusa     | 64-QAM, 8K, 1/4 |
-| Jelerősség (RSSI)    | 63.8 dBu |
-| MER                  | 29.0 dB |
-| Noise Margin         | 12.0 |
-| Hiba nélkül vett adás időtartama | 200 sec |   
+| Moduláció típusa     | DVBT/QPSK, 8K, 1/32 |
+| Jelerősség (RSSI)    | 46 dBu |
+| MER                  | 29.1 dB |
+| Noise Margin         | 25.3 |
+| Hiba nélkül vett adás időtartama | 129 sec |   
 
 
 <details>   
@@ -50,29 +50,33 @@ A mérési pont a **V3 LABOR**, ahol a DVB-T adások vételének minőségét é
 </details>
 
 <details>   
-  <summary> A CH45 -ös csatornán mért spektrum </summary>
+  <summary>  Mért spektrum </summary>
   <img width="946" height="528" alt="image" src="https://github.com/user-attachments/assets/e38a3529-cf10-4c09-9cba-9f6f4bc5d3d4" />
 
 </details>
 
 <details>   
-  <summary> A CH45 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák </summary>
-  <img src="https://sandorpeteer.github.io/tavkozles/img/its_snapshot_0002.bmp" alt="NOISE MARGIN" />
+  <summary> Mért jelerősség, jel/zaj viszony, és bithibák </summary>
+  <img width="945" height="532" alt="image" src="https://github.com/user-attachments/assets/bebe823a-4d1e-4cc2-a31a-d850d90deea7" />
+
 </details>
 
 <details>   
-  <summary> A CH45 -ös csatorna konstellációs diagramja </summary>
-  <img src="https://sandorpeteer.github.io/tavkozles/img/its_snapshot_0004.bmp" alt="CONSTELLATION" />
+  <summary> Mért konstellációs diagramja </summary>
+  <img width="945" height="532" alt="image" src="https://github.com/user-attachments/assets/4ba0af9a-ae01-4ae9-b95f-6863e87b7c47" />
+
 </details>
 
 <details>   
-  <summary> A CH45 -ös csatornán a DUNATV HD jelszint és TV adás </summary>
-  <img src="https://sandorpeteer.github.io/tavkozles/img/its_snapshot_0003.bmp" alt="DUNATV" />
+  <summary>  Miskolci TV jelszint és TV adás </summary>
+  <img width="945" height="532" alt="image" src="https://github.com/user-attachments/assets/1ea31b5b-33d6-4736-9717-d330b4d13ae6" />
+
 </details>
 
 <details>   
-  <summary> A CH45 -ös csatornán a DUNATV HD műsora </summary>
-  <img src="https://sandorpeteer.github.io/tavkozles/img/its_snapshot_0005.bmp" alt="DUNATV" />
+  <summary> A Miskolc TV  műsora </summary>
+ <img width="944" height="535" alt="image" src="https://github.com/user-attachments/assets/84761643-db77-4d26-9c14-0d6b250c65bf" alt= />
+
 </details>
 
 <br>
