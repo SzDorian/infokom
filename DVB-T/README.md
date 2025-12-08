@@ -83,11 +83,11 @@ A mérési pont a **V3 LABOR**, ahol a DVB-T adások vételének minőségét é
 
 ### 4. **Mérési eredmények**
 
-- **Jelerősség**: A mért jelerősség **64 dBu**. Ez az érték stabil volt **200 másodperces időtartam alatt**, és megfelel a DVB-T előírásoknak. A mérési helyen a jel optimális volt.  
+- **Jelerősség**: A mért jelerősség **46 dBu**. Ez az érték stabil volt **129 másodperces időtartam alatt**, és megfelel a DVB-T előírásoknak. A mérési helyen a jel optimális volt.  
   
-- **Modulációs paraméterek**: A **64-QAM** moduláció esetén a mért jel/zaj viszony (SNR) **12 dB** körül váltakozott, ami megfelel a követelményeknek.  
+- **Modulációs paraméterek**: A **DVBT/QPSK** moduláció esetén a mért jel/zaj viszony (SNR) **25.3 dB** körül váltakozott, ami megfelel a követelményeknek.  
 
-- **Modulation Error Ratio (MER)**: A mért MER érték **28.2 dB** volt, amely azt mutatja, hogy a vétel **probléma mentes** volt.  
+- **Modulation Error Ratio (MER)**: A mért MER érték **29.1 dB** volt, amely azt mutatja, hogy a vétel **probléma mentes** volt.  
 
 ### 5. **Elemzés**
 
