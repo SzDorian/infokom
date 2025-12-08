@@ -34,7 +34,7 @@ A mérési pont a **V3 LABOR**, ahol a DVB-T adások vételének minőségét é
 
 | Paraméter           | Érték |
 |---------------------|-------|
-| Adó frekvencia       | 666 MHz |
+| Adó frekvencia       | 634 MHz |
 | Sávszélesség         | 8MHz |
 | Moduláció típusa     | 64-QAM, 8K, 1/4 |
 | Jelerősség (RSSI)    | 63.8 dBu |
