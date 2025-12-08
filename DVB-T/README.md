@@ -4,10 +4,10 @@ A **DVB-T mérési jegyzőkönyv** egy formális dokumentum, amely a digitális 
 
 ## DVB-T MÉRÉSI JEGYZŐKÖNYV
 
-**Mérés helye**: [Helyszín neve]  
-**Mérés időpontja**: [Dátum]  
-**Mérő műszerek**: [Műszer típusa, pl. Spectrum Analyzer, DVB-T vevő, stb.]  
-**Felelős személy**: [Név]  
+**Mérés helye**: Miskolc  
+**Mérés időpontja**: 2025.12.08
+**Mérő műszerek**: METEK HD - SV:1.17.2002 - SN:2109010000052 
+**Felelős személy**: Szabó Dorián  
 **Cél**: A DVB-T jel minőségi paramétereinek mérése.
 
 ---
