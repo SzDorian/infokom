@@ -106,5 +106,5 @@ Ha szükséges, meg kell vizsgálni az antennarendszer fejlesztésének lehetős
 ---
 
 **Aláírás**:  
-Felelős mérő személy: ..............................  
-Dátum: .............................................
+Felelős mérő személy: Szabó Dorián  
+Dátum: 2025.12.08.
