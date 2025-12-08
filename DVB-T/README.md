@@ -51,7 +51,8 @@ A mérési pont a **V3 LABOR**, ahol a DVB-T adások vételének minőségét é
 
 <details>   
   <summary> A CH45 -ös csatornán mért spektrum </summary>
-  <img src="https://sandorpeteer.github.io/tavkozles/img/its_snapshot_0001.bmp" alt="CH45" />
+  <img width="946" height="528" alt="image" src="https://github.com/user-attachments/assets/e38a3529-cf10-4c09-9cba-9f6f4bc5d3d4" />
+
 </details>
 
 <details>   
